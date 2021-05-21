@@ -1,3 +1,13 @@
+# 🛑 Project Moved: Now a Community Project! 🛑
+
+🌟 **Good news, everyone!** 🌟
+
+This repository [is now a community project under the OMNeT++ organisation](https://github.com/omnetpp/cmake).
+
+Please update your submodules and file your contributions there.
+
+---
+
 `omnetpp-cmake` — CMake + OMNeT++ = ❤
 ======================================
 
